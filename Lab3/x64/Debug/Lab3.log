@@ -1,0 +1,6 @@
+﻿  Board.cpp
+D:\2 kypce\CPP2024\Lab3\Board.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gems.cpp
+  lab3.cpp
+  Generating Code...
+  Lab3.vcxproj -> D:\2 kypce\CPP2024\x64\Debug\Lab3.exe

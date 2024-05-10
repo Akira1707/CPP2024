@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{916476a7-2eec-47c6-8738-fc877b600682}</ProjectGuid>
-    <RootNamespace>CPP2024</RootNamespace>
+    <ProjectGuid>{a7b24ada-309a-4d3a-9600-70161fa198a7}</ProjectGuid>
+    <RootNamespace>Lab1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -128,8 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lab1.cpp" />
-    <ClCompile Include="lab2.cpp" />
-    <ClCompile Include="lab3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lab1.h" />
